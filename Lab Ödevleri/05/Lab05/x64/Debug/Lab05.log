@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Downloads\Lab05\Lab05\main.cpp(74,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Downloads\Lab05\Lab05\main.cpp(135,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab05.vcxproj -> C:\Users\user\Downloads\Lab05\Lab05\x64\Debug\Lab05.exe
