@@ -7,3 +7,5 @@ Bu repo, **Data Structure** dersi için yaptığım ders içi uygulamaları içe
 - **Uygulama 3:** Bu uygulama, infix ifadeleri postfix notasyonuna çevirir ve değerlendirir. Yığın (stack) veri yapısı kullanılarak, aritmetik işlemlerin öncelik sırasına göre sonuç hesaplanır.
 - **Uygulama 4:** Bu uygulama, çift yönlü bağlı liste ile bir Deque (çift uçlu kuyruk) ADT’sini implemente eder. Eleman ekleme, çıkarma ve erişim işlemleri O(1) zaman karmaşıklığında çalışır.
 - **Uygulama 4:** Bu uygulama, ikili arama ağacını (BST) iplikli (threaded) bir yapıya dönüştürür. NULL çocuk işaretçileri, inorder öncül ve ardıl düğümlere işaret ederek ağacın O(n) zamanda ileri/geri dolaşılmasını sağlar.
+- **Uygulama 5:** Bu uygulama, ikili arama ağacını (BST) iplikli (threaded) bir yapıya dönüştürür. NULL çocuk işaretçileri, inorder öncül ve ardıl düğümlere işaret ederek ağacın O(n) zamanda ileri/geri dolaşılmasını sağlar.
+- **Uygulama 6:** Bu uygulama, bir metin dosyasındaki en sık geçen k kelimeyi frekans sırasına göre listeler. AVL ağacı tabanlı bir harita kullanılarak kelimeler O(nlogn) zamanda işlenir ve sonuç O(n) yerde saklanır.
